@@ -4,6 +4,8 @@
 
 This will be the final part of your blog post. Continue drafting it in Medium.
 
+[Link to my Draft](https://medium.com/@davidzilla27/adding-city-images-to-your-react-app-14c937df2db2)
+
 1. Come up with an engaging subtitle for this section.
 2. Write a paragraph on the current state of your product. You should include:
     - A full list of shipped features
